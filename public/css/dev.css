@@ -1,0 +1,32 @@
+html body {
+  background: url(http://localhost:8000/img/wood2.jpg);
+}
+
+.light-background .panel {
+  background: rgba(0,0,0,0.7);
+  /*
+  border-color: #3e82b1;
+  */
+  color: #ddd;
+}
+.light-background .panel .panel-heading {
+  /*
+  background: #3e82b1;
+  border-color: #3e82b1;
+  color: #fff;
+  */
+}
+
+
+.form-control {
+  background: rgba(255, 255, 255, 0.25);
+  color: #eee;
+}
+
+.action-column {
+  text-align: right;
+}
+
+select option {
+    color: #000;
+}
